@@ -1,0 +1,3 @@
+NextStepIntent next 
+DetailIntent detail
+SummaryIntent summary

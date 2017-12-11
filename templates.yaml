@@ -1,0 +1,77 @@
+welcome: |
+  Welcome to child care diapering. Would you like detailed instructions?
+
+welcome_re: |
+  This is child care diapering. You may hear detailed or summary instructions. If you would you like detailed instruction, please say yes. Otherwise, say no.
+
+welcome_card: |
+  child care diapering is an Alexa skill written by Greg Quinlan. An Alexa Skill to step through Diaper Changing Steps for a Child Care Setting 
+
+stop_bye: |
+  Goodbye!
+
+cancel_bye: |
+  OK, goodbye!
+
+help_text: |
+  Child care diapering is an Alexa skill that lists detailed or summary steps for diapering as specified by the Center for Disease Control. Between the steps, you may say next, go back, detail, summary, or stop to end..
+
+no_next: |
+  You have heard the last direction.
+
+no_back: |
+  You are on the first step.
+
+reg_reprompt: |
+  You may say next, go back, detail, summary to continue or stop to end.
+
+last_reprompt: |
+  You have heard the last step. You may say go back or stop to end.
+
+next_tagline: |
+  Step complete.
+
+last_tagline: |
+  This is the last step. Say 'stop' to end.
+
+prepare_text: |
+  PREPARE.
+
+prepare_detail: |
+  Cover the diaper changing surface with disposable liner. If you will use diaper cream, dispense it onto a tissue now. Bring your supplies, for example a clean diaper, wipes, diaper cream, gloves, plastic or waterproof bag for soiled clothing, extra clothes, to the diapering area.
+
+clean_text: |
+  CLEAN CHILD.
+
+clean_detail: |
+  Place the child on diapering surface and unfasten the diaper. Clean the child's diaper area with disposable wipes. Always wipe front to back! Keep soiled diaper and any soiled clothing away from any surface sthat cannot be easily cleaned. Securely bag the soiled clothing.
+
+remove_text: |
+  REMOVE TRASH.
+
+remove_detail: |
+  Place used wipes in the soiled diaper. Discard the soiled diaper and wipesin the trash can. Remove and discard gloves, if used.
+
+replace_text: |
+  REPLACE DIAPER.
+
+replace_detail: |
+  Slide a fresh diaper under the child. Apply diaper cream, if needed, with a tissue or a freshly gloved finger. Fasten the diaper and dress the child.
+
+wash_child_text: |
+  WASH CHILD'S HANDS.
+
+wash_child_detail: |
+  Use soap and water to wash the child's hands thoroughly. Return the child to a supervised area.
+
+clean_up_text: |
+  CLEAN UP.
+
+clean_up_detail: |
+  Remove liner from the changing surface and discard in the trash can. Wipe up any visible soil with damp paper towels or a baby wipe. Wet the entire surface with disinfectant; make sure you read and follow the directions on the disinfecting spray, fluid or wipe. Choose disinfectant appropriate for the surface material.
+
+wash_your_text: |
+  WASH YOUR HANDS.
+
+wash_your_detail: |
+   Wash your hands thoroughly with soap and water.
